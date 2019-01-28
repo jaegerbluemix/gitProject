@@ -1,0 +1,1 @@
+This is the first commit made in production branch before creating other branches.
