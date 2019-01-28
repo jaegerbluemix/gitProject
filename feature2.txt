@@ -1,2 +1,2 @@
 First Commit in feature2, after 2nd Commit in production branch.
-
+Second Commit in feature2, no changes in feature1.
