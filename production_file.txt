@@ -1,1 +1,2 @@
 This is the first commit made in production branch before creating other branches.
+This is the second commit after creating feature1 and feature2.
